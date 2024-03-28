@@ -124,7 +124,10 @@ Classification Report Tuned XGBOOST :
     macro avg      0.72      0.65      0.67     17232
     weighted avg   0.75      0.77      0.75     17232
 
+Setelah di uji berdasarkan Error di temui bahwa variabel request_car_parking berperan paling dominan dalam menentukan seseorang akan melakukan cancel atau book, diikuti oleh variabel special_request, lead_time, dan seterusnya
+
 ![image](https://github.com/PurwadhikaDev/DeltaGroup_JC_DS_OL_12_C_FinalProject/assets/151637860/7301b1bc-74e2-4110-9ba0-86dd858140eb)
+
 
 ## Kesimpulan
 * Dari hasil analisis yang kita temuin menghasilkan kesimpulan bahwa sebenarnya ada beberapa faktor seseorang akan melakukan cancel terhadap pesanannya, ada berbagai macam hal yang mungkin diluar dari kemampuan yang dapat kita ketahui berdasarkan hal tersebut kita tidak bisa memaksakan seseorang untuk terus melanjutkan bookingnya.
